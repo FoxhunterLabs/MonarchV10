@@ -1,0 +1,5 @@
+# Monarch V9.5 — Requirements
+# (Python standard library handles most functionality)
+
+dataclasses-json==0.6.4    # optional: safer dataclass <-> dict handling
+typing_extensions>=4.9.0   # for forward-compat typing support
